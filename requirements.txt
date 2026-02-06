@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+Pillow
+cairosvg
+svgwrite
+openai
+langchain
+langchain-community
+langchain-openai
+langchain-google-genai
+python-dotenv
+sqlalchemy
+requests
